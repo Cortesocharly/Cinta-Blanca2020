@@ -48,7 +48,7 @@ else if(opcionUsuario == papel)
     alert("¡Perdiste! :(");
   }
 }
-else if(lamaquina == tijera)
+else if(opcionUsuario == tijera)
 {
 	alert("Elegiste Tijera!");
 	if(lamaquina == piedra)
